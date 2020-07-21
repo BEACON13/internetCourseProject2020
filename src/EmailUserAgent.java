@@ -14,15 +14,6 @@ public class EmailUserAgent {
 	
 	public boolean send()
 	{
-		//String sender="courseprojectnz@163.com";
-		//String password="ONAZIYOWBWDWQEBT";
-				
-		//String sender="2458452428@qq.com";
-		//String password="uqcdtxwspkmgdiah";
-		
-		//String receiver="courseprojectnz@163.com";
-		//String receiver="2458452428@qq.com";
-		
 		String sender=null;
 		String password=null;
 		String receiver=null;
@@ -73,12 +64,6 @@ public class EmailUserAgent {
 	
 	public boolean receive()
 	{
-		//String account="courseprojectnz@163.com";
-		//String password="ONAZIYOWBWDWQEBT";
-		
-		//String account="2458452428@qq.com";
-		//String password="uqcdtxwspkmgdiah";
-		
 		String server=null;
 		String account=null;
 		String password=null;
